@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+pytesseract
+pdf2image
+PyPDF2
+opencv-python
+numpy
+Pillow
